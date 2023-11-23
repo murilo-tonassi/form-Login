@@ -6,9 +6,9 @@
 * [Form-Login](#form-CadEcommerce)
 * [Descrição](#descrição)
 * [Introdução](#introdução)
-* [Sites Consultados](#Sites-consultados)
 * [Funcionalidades](#funcionalidades)
-* [Tecnologias Utilidades](#tecnologias-utilizadas)
+* [Tecnologias Utilizadas](#tecnologias-utilizadas)
+* [Fontes Consultados](#Sites-consultados)
 * [Autores](#autores)
 
 
@@ -21,12 +21,10 @@ Preenchimento de dados em um formulário de Login
 
 ![](imagem.png)
 
-## Fontes consultadas 📱
-- [boot strap](https://getbootstrap.com/)
-
 ## Funcionalidades 🧠⚙️
  - Aprender a construir uma tabela de formulário de Login em HTML5
 
+ 
 ## Tecnologias Utilizadas 🖥️  
 - Visual Studio Code;
 - CSS3;
@@ -34,6 +32,9 @@ Preenchimento de dados em um formulário de Login
 - Github;
 - Boot Strap
 - Git
+
+## Fontes Consultadas 📱
+- [boot strap](https://getbootstrap.com/)
 
 ## Autores 👥📘
 - [Murilo Tonassi](https://github.com/murilo-tonassi)
