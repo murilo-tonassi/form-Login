@@ -4,19 +4,19 @@ body {
 label{
     display: flex;
     justify-content: space-between;
-    width: 60%;
+    width: 80%;
     margin:0.5rem;
     font-family:cursive;
 }
 button{
-border: 0;
-  line-height: 2.5;
-  padding: 0 30px;
+border: 5;
+  line-height: 2.0;
+  padding: 0 50px;
   font-size: 1rem;
   text-align: center;
   color: #fff;
   text-shadow: 1px 1px 1px rgb(238, 2, 255);
-  border-radius: 10px;
+  border-radius: 30px;
   background-color: rgb(19, 128, 253);
   background-image: linear-gradient(to top l)
  
