@@ -21,7 +21,7 @@ Preenchimento de dados em um formulário de Login
 
 ![](imagem.png)
 
-## Sites consultados 📱
+## Fontes consultados 📱
 - [boot strap](https://getbootstrap.com/)
 
 ## Funcionalidades 🧠⚙️
