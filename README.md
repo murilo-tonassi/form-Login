@@ -25,7 +25,7 @@ Preenchimento de dados em um formulário de Login
 - [boot strap](https://getbootstrap.com/)
 
 ## Funcionalidades 🧠⚙️
- Aprender a construir uma tabela de formulário de Login em HTML5
+ - Aprender a construir uma tabela de formulário de Login em HTML5
 
 ## Tecnologias Utilizadas 🖥️  
 - Visual Studio Code;
